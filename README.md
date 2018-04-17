@@ -14,6 +14,10 @@ work in progress
 * [Object Calisthenics](https://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf)
 * [How Interfaces Are Refactoring Our Code](http://www.amihaiemil.com/2017/08/12/how-interfaces-are-refactoring-our-code.html)
 
+## Tutorials
+* [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
+* [Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+
 ## Code Examples
 * [Code Katas](https://github.com/kkisiele/codekata)
 
