@@ -14,8 +14,9 @@ work in progress
 
 ## Blogs
 * [Martin Fowler](https://martinfowler.com/bliki)
-* [Yegor Bugayenko](http://www.yegor256.com)
 * [Michael Feathers](https://michaelfeathers.silvrback.com)
+* [Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com)
+* [Yegor Bugayenko](http://www.yegor256.com)
 
 ## Books
 * [Refactoring: Improving the Design of Existing Code by Martin Fowler](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6)
