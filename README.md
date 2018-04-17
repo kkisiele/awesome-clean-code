@@ -2,6 +2,7 @@
 work in progress
 
 ## Design Principles
+* [Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 * [Open Closed Principle](https://8thlight.com/blog/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html)
 * [Single Responsibility Principle](https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
