@@ -1,4 +1,4 @@
-# Awesome Clean Code
+# Awesome Clean Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 work in progress
 
 ## Design Principles
