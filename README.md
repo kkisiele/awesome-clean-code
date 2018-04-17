@@ -8,6 +8,7 @@ work in progress
 * [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
 * [Converting Queries to Commands](https://michaelfeathers.silvrback.com/converting-queries-to-commands)
 * [Object Calisthenics](https://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf)
+* [How Interfaces Are Refactoring Our Code](http://www.amihaiemil.com/2017/08/12/how-interfaces-are-refactoring-our-code.html)
 
 ## Code Examples
 * [Code Katas](https://github.com/kkisiele/codekata)
