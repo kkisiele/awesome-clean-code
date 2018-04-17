@@ -27,6 +27,7 @@ work in progress
 * [Michael Feathers](https://michaelfeathers.silvrback.com)
 * [Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com)
 * [Yegor Bugayenko](http://www.yegor256.com)
+* [Code Cop](http://blog.code-cop.org)
 
 ## Books
 * [Refactoring: Improving the Design of Existing Code by Martin Fowler](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6)
