@@ -6,6 +6,9 @@ work in progress
 * [Open Closed Principle](https://8thlight.com/blog/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html)
 * [Single Responsibility Principle](https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+## Code
+* [When A Method Can Do Nothing](https://michaelfeathers.silvrback.com/when-it-s-okay-for-a-method-to-do-nothing)
 * [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
 * [Converting Queries to Commands](https://michaelfeathers.silvrback.com/converting-queries-to-commands)
 * [Object Calisthenics](https://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf)
