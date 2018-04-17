@@ -22,6 +22,7 @@ work in progress
 
 ## Code Examples
 * [Code Katas](https://github.com/kkisiele/codekata)
+* [hentai](https://github.com/jakubnabrdalik/hentai)
 
 ## Blogs
 * [Martin Fowler](https://martinfowler.com/bliki)
