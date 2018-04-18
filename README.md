@@ -68,6 +68,7 @@ A design which:
 * [Martin Fowler](https://twitter.com/martinfowler)
 * [Robert C. Martin](https://twitter.com/unclebobmartin)
 * [Ron Jeffries](https://twitter.com/RonJeffries)
+* [Michael Feathers](https://twitter.com/mfeathers)
 * [Yegor Bugayenko](https://twitter.com/yegor256)
 
 ## Books
