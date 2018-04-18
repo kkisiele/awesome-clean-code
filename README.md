@@ -2,7 +2,8 @@
 work in progress
 
 ## Design Principles
-* [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) Acronym coined by Robert C. Martin (Uncle Bob) to descibe the following five principles:
+### [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+Acronym coined by Robert C. Martin (Uncle Bob) to descibe the following five principles:
 1. [The Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk) A class should have one, and only one, reason to change.
 2. [The Open Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en) Software entities should be open for extension, but closed for modification.
 * [Open Closed Principle](https://8thlight.com/blog/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html)
