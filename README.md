@@ -24,6 +24,7 @@ work in progress
 ## Code Examples
 * [Code Katas](https://github.com/kkisiele/codekata)
 * [hentai](https://github.com/jakubnabrdalik/hentai)
+* [Source code for the book, "Growing Object-Oriented Software, Guided by Tests"](https://github.com/sf105/goos-code)
 
 ## Git Hub
 * [Nat Pryce](https://github.com/npryce)
