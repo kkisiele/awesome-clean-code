@@ -6,6 +6,7 @@ work in progress
 * [Open Closed Principle](https://8thlight.com/blog/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html)
 * [Single Responsibility Principle](https://8thlight.com/blog/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [Kent Beck's Four Rules of Simple Design](https://martinfowler.com/bliki/BeckDesignRules.html)
 
 ## Code
 * [When A Method Can Do Nothing](https://michaelfeathers.silvrback.com/when-it-s-okay-for-a-method-to-do-nothing)
@@ -30,6 +31,8 @@ work in progress
 * [Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com)
 * [Yegor Bugayenko](http://www.yegor256.com)
 * [Code Cop](http://blog.code-cop.org)
+* [The Code Whisperer](http://blog.thecodewhisperer.com)
+* [jbrains.ca](http://blog.jbrains.ca)
 
 ## Books
 * [Refactoring: Improving the Design of Existing Code by Martin Fowler](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6)
