@@ -43,6 +43,9 @@ A design which:
 * [Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
 * [Refactoring from anemic model to DDD](https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f)
 
+## Videos
+* [How To Design A Good API and Why it Matters by Joshua Bloch](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+
 ## Code Examples
 * [Code Katas](https://github.com/kkisiele/codekata)
 * [hentai](https://github.com/jakubnabrdalik/hentai)
