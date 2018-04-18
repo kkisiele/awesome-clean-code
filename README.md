@@ -34,6 +34,12 @@ work in progress
 * [The Code Whisperer](http://blog.thecodewhisperer.com)
 * [jbrains.ca](http://blog.jbrains.ca)
 
+## Twitter
+* [Kent Beck](https://twitter.com/kentbeck)
+* [Martin Fowler](https://twitter.com/martinfowler)
+* [Robert C. Martin](https://twitter.com/unclebobmartin)
+* [Ron Jeffries](https://twitter.com/RonJeffries)
+
 ## Books
 * [Refactoring: Improving the Design of Existing Code by Martin Fowler](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6)
 * [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
