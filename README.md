@@ -17,6 +17,15 @@ A design which:
 4. Fewest elements.
 
 ### [Elegant Objects](http://www.elegantobjects.org)
+1. No null.
+2. No code in constructors.
+3. No getters and setters.
+4. No mutable objects.
+5. No static methods, not even private ones.
+6. No instanceof, type casting, or reflection.
+7. No public methods without @Override.
+8. No statements in test methods except assertThat.
+9. No implementation inheritance.
 
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
