@@ -27,6 +27,7 @@ work in progress
 
 ## Git Hub
 * [Nat Pryce](https://github.com/npryce)
+* [Steve Freeman](https://github.com/sf105)
 
 ## Blogs
 * [Martin Fowler](https://martinfowler.com/bliki)
