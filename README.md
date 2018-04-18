@@ -25,6 +25,9 @@ work in progress
 * [Code Katas](https://github.com/kkisiele/codekata)
 * [hentai](https://github.com/jakubnabrdalik/hentai)
 
+## Git Hub
+* [Nat Pryce](https://github.com/npryce)
+
 ## Blogs
 * [Martin Fowler](https://martinfowler.com/bliki)
 * [Michael Feathers](https://michaelfeathers.silvrback.com)
@@ -33,6 +36,8 @@ work in progress
 * [Code Cop](http://blog.code-cop.org)
 * [The Code Whisperer](http://blog.thecodewhisperer.com)
 * [jbrains.ca](http://blog.jbrains.ca)
+* [Nat Pryce](http://www.natpryce.com)
+* [Steve Freeman](http://www.m3p.co.uk/blog)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
