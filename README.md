@@ -39,6 +39,7 @@ work in progress
 * [Martin Fowler](https://twitter.com/martinfowler)
 * [Robert C. Martin](https://twitter.com/unclebobmartin)
 * [Ron Jeffries](https://twitter.com/RonJeffries)
+* [Yegor Bugayenko](https://twitter.com/yegor256)
 
 ## Books
 * [Refactoring: Improving the Design of Existing Code by Martin Fowler](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6)
