@@ -46,6 +46,7 @@ A design which:
 ## Videos
 * [How To Design A Good API and Why it Matters by Joshua Bloch](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * [Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
+* [Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 
 ## Code Examples
 * [Code Katas](https://github.com/kkisiele/codekata)
