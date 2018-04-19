@@ -46,6 +46,7 @@ A design which:
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
 * [Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
 * [Refactoring from anemic model to DDD](https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f)
+* [Writing Testable Code](http://misko.hevery.com/code-reviewers-guide)
 
 ## Videos
 * [How To Design A Good API and Why it Matters by Joshua Bloch](https://www.youtube.com/watch?v=aAb7hSCtvGw)
@@ -71,6 +72,7 @@ A design which:
 * [jbrains.ca](http://blog.jbrains.ca)
 * [Nat Pryce](http://www.natpryce.com)
 * [Steve Freeman](http://www.m3p.co.uk/blog)
+* [Miško Hevery](http://misko.hevery.com)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
