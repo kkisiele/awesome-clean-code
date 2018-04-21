@@ -74,6 +74,7 @@ A design which:
 * [Nat Pryce](http://www.natpryce.com)
 * [Steve Freeman](http://www.m3p.co.uk/blog)
 * [Miško Hevery](http://misko.hevery.com)
+* [Matteo Vaccari](http://matteo.vaccari.name/blog)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
