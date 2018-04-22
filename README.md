@@ -36,13 +36,14 @@ A design which:
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 
-## Code
+## Featured Artciles
 * [When A Method Can Do Nothing](https://michaelfeathers.silvrback.com/when-it-s-okay-for-a-method-to-do-nothing)
 * [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
 * [Converting Queries to Commands](https://michaelfeathers.silvrback.com/converting-queries-to-commands)
 * [Object Calisthenics](https://www.bennadel.com/resources/uploads/2012/ObjectCalisthenics.pdf)
 * [How Interfaces Are Refactoring Our Code](http://www.amihaiemil.com/2017/08/12/how-interfaces-are-refactoring-our-code.html)
 * [Your Constructors are Completely Irrational](http://blog.thecodewhisperer.com/permalink/your-constructors-are-completely-irrational)
+* [Class naming](http://objology.blogspot.com/2011/09/one-of-best-bits-of-programming-advice.html)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
