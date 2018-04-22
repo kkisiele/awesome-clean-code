@@ -62,6 +62,7 @@ A design which:
 ## Git Hub
 * [Nat Pryce](https://github.com/npryce)
 * [Steve Freeman](https://github.com/sf105)
+* [Matteo Vaccari](https://github.com/xpmatteo)
 
 ## Blogs
 * [Martin Fowler](https://martinfowler.com/bliki)
@@ -75,6 +76,7 @@ A design which:
 * [Steve Freeman](http://www.m3p.co.uk/blog)
 * [Miško Hevery](http://misko.hevery.com)
 * [Matteo Vaccari](http://matteo.vaccari.name/blog)
+* [Carlo Pescio](http://www.carlopescio.com)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
@@ -83,6 +85,8 @@ A design which:
 * [Ron Jeffries](https://twitter.com/RonJeffries)
 * [Michael Feathers](https://twitter.com/mfeathers)
 * [Yegor Bugayenko](https://twitter.com/yegor256)
+* [Carlo Pescio](https://twitter.com/carlopescio)
+* [Matteo Vaccari](https://twitter.com/xpmatteo)
 
 ## Books
 * [Refactoring: Improving the Design of Existing Code by Martin Fowler](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6) errata for the book can be found [here](https://martinfowler.com/refactoringErrata.html)
