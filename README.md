@@ -44,6 +44,7 @@ A design which:
 * [How Interfaces Are Refactoring Our Code](http://www.amihaiemil.com/2017/08/12/how-interfaces-are-refactoring-our-code.html)
 * [Your Constructors are Completely Irrational](http://blog.thecodewhisperer.com/permalink/your-constructors-are-completely-irrational)
 * [Class naming](http://objology.blogspot.com/2011/09/one-of-best-bits-of-programming-advice.html)
+* [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
