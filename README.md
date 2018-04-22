@@ -78,6 +78,7 @@ A design which:
 * [Matteo Vaccari](http://matteo.vaccari.name/blog)
 * [Carlo Pescio](http://www.carlopescio.com)
 * [Jeffrey Palermo](http://jeffreypalermo.com)
+* [Kenneth Truyers](https://www.kenneth-truyers.net)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
@@ -89,6 +90,7 @@ A design which:
 * [Carlo Pescio](https://twitter.com/carlopescio)
 * [Matteo Vaccari](https://twitter.com/xpmatteo)
 * [Jeffrey Palermo](https://twitter.com/jeffreypalermo)
+* [Kenneth Truyers](https://twitter.com/kennethtruyers)
 
 ## Books
 * [Refactoring: Improving the Design of Existing Code by Martin Fowler](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6) errata for the book can be found [here](https://martinfowler.com/refactoringErrata.html)
