@@ -88,6 +88,7 @@ A design which:
 * [Yegor Bugayenko](https://twitter.com/yegor256)
 * [Carlo Pescio](https://twitter.com/carlopescio)
 * [Matteo Vaccari](https://twitter.com/xpmatteo)
+* [Jeffrey Palermo](https://twitter.com/jeffreypalermo)
 
 ## Books
 * [Refactoring: Improving the Design of Existing Code by Martin Fowler](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Technology-ebook/dp/B007WTFWJ6) errata for the book can be found [here](https://martinfowler.com/refactoringErrata.html)
