@@ -77,6 +77,7 @@ A design which:
 * [Miško Hevery](http://misko.hevery.com)
 * [Matteo Vaccari](http://matteo.vaccari.name/blog)
 * [Carlo Pescio](http://www.carlopescio.com)
+* [Jeffrey Palermo](http://jeffreypalermo.com)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
