@@ -14,7 +14,7 @@ A local copy of ["Design Principles and Design Patterns"](https://github.com/kki
 More about this principles with examples can be found [here](https://lostechies.com/wp-content/uploads/2011/03/pablos_solid_ebook.pdf)
 
 ### [Kent Beck's Four Rules of Simple Design](https://martinfowler.com/bliki/BeckDesignRules.html)
-![](https://github.com/kkisiele/awesome-clean-code/blob/master/principles_and_patterns.pdf "Kent Beck's Four Rules of Simple Design")
+![alt text](https://github.com/kkisiele/awesome-clean-code/blob/master/principles_and_patterns.pdf "Kent Beck's Four Rules of Simple Design")
 A design which:
 1. Passes all tests.
 2. Reveals intention.
