@@ -55,7 +55,7 @@ A design which:
 * [Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 * [Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 * [Don't Create Objects That End With -ER](https://www.youtube.com/watch?v=WpP4rIhh5e4)
-* [8 Lines of Code by Greg Young](https://www.infoq.com/presentations/8-lines-code-refactoring) Accompanied slides
+* [8 Lines of Code by Greg Young](https://www.infoq.com/presentations/8-lines-code-refactoring) Accompanied [slides](https://github.com/kkisiele/awesome-clean-code/raw/master/GregYoung_8LinesOfCode.pdf)
 
 ## Code Examples
 * [Code Katas](https://github.com/kkisiele/codekata)
