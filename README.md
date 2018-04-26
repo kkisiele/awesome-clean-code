@@ -45,6 +45,7 @@ A design which:
 * [Your Constructors are Completely Irrational](http://blog.thecodewhisperer.com/permalink/your-constructors-are-completely-irrational)
 * [Class naming](http://objology.blogspot.com/2011/09/one-of-best-bits-of-programming-advice.html)
 * [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743)
+* [Interfacing with hard-to-test third-party code](http://misko.hevery.com/2009/01/04/interfacing-with-hard-to-test-third-party-code/)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
