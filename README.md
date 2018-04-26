@@ -36,7 +36,7 @@ A design which:
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 
-## Featured Artciles
+## Featured Articles
 * [When A Method Can Do Nothing](https://michaelfeathers.silvrback.com/when-it-s-okay-for-a-method-to-do-nothing)
 * [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
 * [Converting Queries to Commands](https://michaelfeathers.silvrback.com/converting-queries-to-commands)
