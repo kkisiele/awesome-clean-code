@@ -47,6 +47,7 @@ A design which:
 * [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743)
 * [Interfacing with hard-to-test third-party code](http://misko.hevery.com/2009/01/04/interfacing-with-hard-to-test-third-party-code/)
 * [How to Think About the "new" Operator with Respect to Unit Testing](http://misko.hevery.com/2008/07/08/how-to-think-about-the-new-operator/)
+* [Avoiding Repetition](https://www.martinfowler.com/ieeeSoftware/repetition.pdf)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
