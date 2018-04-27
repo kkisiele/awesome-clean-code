@@ -46,6 +46,7 @@ A design which:
 * [Class naming](http://objology.blogspot.com/2011/09/one-of-best-bits-of-programming-advice.html)
 * [Names objects after things, not actions!](http://matteo.vaccari.name/blog/archives/743)
 * [Interfacing with hard-to-test third-party code](http://misko.hevery.com/2009/01/04/interfacing-with-hard-to-test-third-party-code/)
+* [How to Think About the "new" Operator with Respect to Unit Testing](http://misko.hevery.com/2008/07/08/how-to-think-about-the-new-operator/)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
