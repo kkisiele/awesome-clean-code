@@ -48,6 +48,8 @@ A design which:
 * [Interfacing with hard-to-test third-party code](http://misko.hevery.com/2009/01/04/interfacing-with-hard-to-test-third-party-code/)
 * [How to Think About the "new" Operator with Respect to Unit Testing](http://misko.hevery.com/2008/07/08/how-to-think-about-the-new-operator/)
 * [Avoiding Repetition](https://www.martinfowler.com/ieeeSoftware/repetition.pdf)
+* [Design Principles from Design Patterns - A Conversation with Erich Gamma](https://www.artima.com/lejava/articles/designprinciplesP.html)
+* [Programming Like Kent Beck](https://blog.iterate.no/2012/06/20/programming-like-kent-beck/)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
