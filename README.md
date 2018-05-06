@@ -89,6 +89,7 @@ A design which:
 * [Jeffrey Palermo](http://jeffreypalermo.com)
 * [Kenneth Truyers](https://www.kenneth-truyers.net)
 * [Vaughn Vernon](http://forcomprehension.com/blog/)
+* [Codurance](https://codurance.com/publications/)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
