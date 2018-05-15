@@ -93,6 +93,7 @@ A design which:
 * [Kenneth Truyers](https://www.kenneth-truyers.net)
 * [Vaughn Vernon](http://forcomprehension.com/blog/)
 * [Codurance](https://codurance.com/publications/)
+* [Mihai](https://www.amihaiemil.com)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
