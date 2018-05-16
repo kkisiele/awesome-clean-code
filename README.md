@@ -71,6 +71,7 @@ A design which:
 * [Code Katas](https://github.com/kkisiele/codekata)
 * [hentai](https://github.com/jakubnabrdalik/hentai)
 * [Source code for the book, "Growing Object-Oriented Software, Guided by Tests"](https://github.com/sf105/goos-code)
+* [jcabi-email](https://github.com/jcabi/jcabi-email)
 
 ## Git Hub
 * [Nat Pryce](https://github.com/npryce)
