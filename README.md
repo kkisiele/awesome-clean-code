@@ -96,6 +96,7 @@ A design which:
 * [Vaughn Vernon](http://forcomprehension.com/blog/)
 * [Codurance](https://codurance.com/publications/)
 * [Mihai](https://www.amihaiemil.com)
+* [Enterprise Craftsmanship] (https://enterprisecraftsmanship.com)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
