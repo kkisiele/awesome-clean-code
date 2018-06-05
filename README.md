@@ -66,6 +66,7 @@ A design which:
 * [Don't Create Objects That End With -ER](https://www.youtube.com/watch?v=WpP4rIhh5e4)
 * [8 Lines of Code by Greg Young](https://www.infoq.com/presentations/8-lines-code-refactoring) Accompanied [slides](https://github.com/kkisiele/awesome-clean-code/raw/master/GregYoung_8LinesOfCode.pdf)
 * [19 1/2 Things to Make You a Better Object Oriented Programmer](https://vimeo.com/17151526) Nice [summary](http://www.simpletechture.nl/blog/2011/objectoriented/)
+* [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214)
 
 ## Code Examples
 * [Code Katas](https://github.com/kkisiele/codekata)
