@@ -98,6 +98,8 @@ A design which:
 * [Codurance](https://codurance.com/publications/)
 * [Mihai](https://www.amihaiemil.com)
 * [Enterprise Craftsmanship] (https://enterprisecraftsmanship.com)
+* [The Iterate Blog](https://blog.iterate.no)
+* [The Holy Java](https://theholyjava.wordpress.com)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
