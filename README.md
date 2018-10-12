@@ -51,6 +51,7 @@ A design which:
 * [Design Principles from Design Patterns - A Conversation with Erich Gamma](https://www.artima.com/lejava/articles/designprinciplesP.html)
 * [Programming Like Kent Beck](https://blog.iterate.no/2012/06/20/programming-like-kent-beck/)
 * [How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
+* [CQRS FAQ](http://www.cqrs.nu/faq)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
