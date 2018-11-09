@@ -1,6 +1,4 @@
 # Awesome Clean Code [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-work in progress
-
 ## Design Principles
 ### [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 Acronym coined by Robert C. Martin (Uncle Bob) to descibe the following five principles:
