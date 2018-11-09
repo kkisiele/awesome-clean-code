@@ -33,9 +33,6 @@ A design which:
 8. No statements in test methods except assertThat.
 9. No implementation inheritance.
 
-* [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-
-
 ## Featured Articles
 * [When A Method Can Do Nothing](https://michaelfeathers.silvrback.com/when-it-s-okay-for-a-method-to-do-nothing)
 * [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
@@ -51,7 +48,7 @@ A design which:
 * [Design Principles from Design Patterns - A Conversation with Erich Gamma](https://www.artima.com/lejava/articles/designprinciplesP.html)
 * [Programming Like Kent Beck](https://blog.iterate.no/2012/06/20/programming-like-kent-beck/)
 * [How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
-* [CQRS FAQ](http://www.cqrs.nu/faq)
+* [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
