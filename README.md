@@ -47,6 +47,7 @@ A design which:
 * [Programming Like Kent Beck](https://blog.iterate.no/2012/06/20/programming-like-kent-beck/)
 * [How Immutability Helps](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [Hexagonal Architecture: three principles and an implementation example](https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
