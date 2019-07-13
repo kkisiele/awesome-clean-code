@@ -55,6 +55,7 @@ A design which:
 * [Refactoring from anemic model to DDD](https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f)
 * [Writing Testable Code](http://misko.hevery.com/code-reviewers-guide)
 * [Essential Skills for Agile Development](http://www2.cpttm.org.mo/cyberlab/softdev/ESAD/)
+* [First Pop Coffee Company](https://buildplease.com/pages/fpc-1/)
 
 ## Videos
 * [How To Design A Good API and Why it Matters by Joshua Bloch](https://www.youtube.com/watch?v=aAb7hSCtvGw)
