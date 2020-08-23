@@ -124,6 +124,7 @@ A design which:
 * [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 * [Elegant Objects by Yegor Bugayenko](https://www.amazon.com/gp/product/1519166915/)
+* [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests-dp-0321503627/dp/0321503627/)
 
 ## Other
 * [Code Katas](http://codekata.com)
