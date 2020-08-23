@@ -57,7 +57,8 @@ A design which:
 * [Writing Testable Code](http://misko.hevery.com/code-reviewers-guide)
 * [Essential Skills for Agile Development](http://www2.cpttm.org.mo/cyberlab/softdev/ESAD/)
 * [First Pop Coffee Company](https://buildplease.com/pages/fpc-1/)
-
+* [Testing legacy by Sandro Mancuso](https://codurance.com/2011/07/16/testing-legacy-hard-wired-dependencies/) and [part 2](https://codurance.com/2011/07/18/testing-legacy-hard-wired-dependencies_17/)
+ 
 ## Videos
 * [How To Design A Good API and Why it Matters by Joshua Bloch](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * [Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
