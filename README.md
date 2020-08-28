@@ -60,6 +60,7 @@ A design which:
 * [Testing legacy by Sandro Mancuso](https://codurance.com/2011/07/16/testing-legacy-hard-wired-dependencies/), [part 2](https://codurance.com/2011/07/18/testing-legacy-hard-wired-dependencies_17/), and [video](https://www.youtube.com/watch?v=_NnElPO5BU0)
 * [Live Refactoring Towards Solid Code](https://www.youtube.com/watch?v=jwJnd9ycs6Q)
 * [Introducing the Gilded Rose kata and writing test cases using Approval Tests by Emily Bache](https://www.youtube.com/watch?v=zyM2Ep28ED8), [part 2](https://www.youtube.com/watch?v=OJmg9aMxPDI) and [part 3](https://www.youtube.com/watch?v=NADVhSjeyJA)
+* [Domain Driven Design Crash Course](https://vaadin.com/learn/tutorials/ddd)
  
 ## Videos
 * [How To Design A Good API and Why it Matters by Joshua Bloch](https://www.youtube.com/watch?v=aAb7hSCtvGw)
