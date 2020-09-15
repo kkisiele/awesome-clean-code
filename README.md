@@ -61,6 +61,7 @@ A design which:
 * [Live Refactoring Towards Solid Code](https://www.youtube.com/watch?v=jwJnd9ycs6Q)
 * [Introducing the Gilded Rose kata and writing test cases using Approval Tests by Emily Bache](https://www.youtube.com/watch?v=zyM2Ep28ED8), [part 2](https://www.youtube.com/watch?v=OJmg9aMxPDI) and [part 3](https://www.youtube.com/watch?v=NADVhSjeyJA)
 * [Domain Driven Design Crash Course](https://vaadin.com/learn/tutorials/ddd)
+* [Reactive in practice: A complete guide to event-driven systems development in Java](https://developer.ibm.com/series/reactive-in-practice/)
  
 ## Videos
 * [How To Design A Good API and Why it Matters by Joshua Bloch](https://www.youtube.com/watch?v=aAb7hSCtvGw)
