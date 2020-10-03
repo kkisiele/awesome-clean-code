@@ -73,6 +73,7 @@ A design which:
 * [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214)
 * [Yves Reynhout - Trench Talk: Evolving a Model](https://www.youtube.com/watch?v=7StN-vNjRSw)
 * [Seven Ineffective Coding Habits of Many Programmers by Kevlin Henney](https://www.youtube.com/watch?v=ZsHMHukIlJY)
+* [Java Optional - The Mother of All Bikesheds by Stuart Marks](https://www.youtube.com/watch?v=Ej0sss6cq14)
 
 ## Code Examples
 * [Code Katas](https://github.com/kkisiele/codekata)
