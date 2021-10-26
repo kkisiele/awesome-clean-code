@@ -84,6 +84,12 @@ A design which:
 * [Source code for the book, "Growing Object-Oriented Software, Guided by Tests"](https://github.com/sf105/goos-code)
 * [jcabi-email](https://github.com/jcabi/jcabi-email)
 * [Assignment done for some interview](https://github.com/kkisiele/loganalyzer)
+* [Library project](https://github.com/ddd-by-examples/library)
+* [Factory project](https://github.com/ddd-by-examples/factory)
+* [Aggregates by Example](https://github.com/mariuszgil/aggregates-by-example)
+* [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2)
+* [ddd-wro-warehouse](https://github.com/michal-michaluk/ddd-wro-warehouse)
+* [Cargo](https://github.com/citerus/dddsample-core)
 
 ## Git Hub
 * [Nat Pryce](https://github.com/npryce)
