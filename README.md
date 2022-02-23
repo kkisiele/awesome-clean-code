@@ -31,6 +31,13 @@ A design which:
 8. No statements in test methods except assertThat.
 9. No implementation inheritance.
 
+### [CUPID](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
+1. Composable: plays well with others
+2. Unix philosophy: does one thing well
+3. Predictable: does what you expect
+4. Idiomatic: feels natural
+5. Domain-based: the solution domain models the problem domain in language and structure
+
 ## Featured Articles
 * [When A Method Can Do Nothing](https://michaelfeathers.silvrback.com/when-it-s-okay-for-a-method-to-do-nothing)
 * [Tell Don't Ask](https://martinfowler.com/bliki/TellDontAsk.html)
