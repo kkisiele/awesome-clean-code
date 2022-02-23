@@ -51,6 +51,7 @@ A design which:
 * [Getting Started With DDD When Surrounded By Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
 * [Clean Code in Python](https://testdriven.io/blog/clean-code-python/)
 * [Refactoring Legacy Code with the Strangler Fig Pattern](https://shopify.engineering/refactoring-legacy-code-strangler-fig-pattern) also available in [video](https://www.youtube.com/watch?v=zZ95_5y_iPk)
+* [Immutable architecture](https://enterprisecraftsmanship.com/posts/immutable-architecture/)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
@@ -65,6 +66,7 @@ A design which:
 * [Domain Driven Design Crash Course](https://vaadin.com/learn/tutorials/ddd)
 * [Reactive in practice: A complete guide to event-driven systems development in Java](https://developer.ibm.com/series/reactive-in-practice/)
 * [Writing Clean Tests](https://www.petrikainulainen.net/writing-clean-tests/)
+* [Tic-Tac-Toe Speedrun live coding](https://www.youtube.com/watch?v=z4qvIaJhSkU)
  
 ## Videos
 * [How To Design A Good API and Why it Matters by Joshua Bloch](https://www.youtube.com/watch?v=aAb7hSCtvGw)
