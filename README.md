@@ -59,6 +59,8 @@ A design which:
 * [Clean Code in Python](https://testdriven.io/blog/clean-code-python/)
 * [Refactoring Legacy Code with the Strangler Fig Pattern](https://shopify.engineering/refactoring-legacy-code-strangler-fig-pattern) also available in [video](https://www.youtube.com/watch?v=zZ95_5y_iPk)
 * [Immutable architecture](https://enterprisecraftsmanship.com/posts/immutable-architecture/)
+* [The Humble Dialog Box by Michael Feathers](https://martinfowler.com/articles/images/humble-dialog-box/TheHumbleDialogBox.pdf)
+* [The Transformation Priority Premise by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
