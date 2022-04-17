@@ -61,6 +61,7 @@ A design which:
 * [Immutable architecture](https://enterprisecraftsmanship.com/posts/immutable-architecture/)
 * [The Humble Dialog Box by Michael Feathers](https://martinfowler.com/articles/images/humble-dialog-box/TheHumbleDialogBox.pdf)
 * [The Transformation Priority Premise by Uncle Bob](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
+* [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
 ## Tutorials
 * [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js)
