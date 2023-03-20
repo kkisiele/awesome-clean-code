@@ -151,6 +151,8 @@ A design which:
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 * [Elegant Objects by Yegor Bugayenko](https://www.amazon.com/gp/product/1519166915/)
 * [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests-dp-0321503627/dp/0321503627/)
+* [Code That Fits in Your Head : Heuristics for Software Engineering](https://www.amazon.com/Code-That-Fits-Your-Head/dp/0137464401)
 
 ## Other
 * [Code Katas](http://codekata.com)
+* [katalyst](https://www.codurance.com/katalyst)
