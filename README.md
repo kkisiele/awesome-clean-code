@@ -129,6 +129,7 @@ A design which:
 * [Enterprise Craftsmanship](https://enterprisecraftsmanship.com)
 * [The Iterate Blog](https://blog.iterate.no)
 * [The Holy Java](https://theholyjava.wordpress.com)
+* [ploeh blog](https://blog.ploeh.dk/)
 
 ## Twitter
 * [Kent Beck](https://twitter.com/kentbeck)
